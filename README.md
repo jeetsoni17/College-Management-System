@@ -18,4 +18,18 @@ A web-based portal for managing college operations, designed using PHP, MySQL, a
 - **Username:** admin  
 - **Password:** admin  
 
-## Snapshots  
+## Snapshots
+
+![Home Page](snapshots/homepage.png)  
+
+![Cart Page](snapshots/student_entry.png)  
+
+![Cart Page](snapshots/techer_entry.png)  
+
+![Cart Page](snapshots/view_score.png)  
+![Cart Page](snapshots/score.png)  
+
+![Cart Page](snapshots/ann.png)  
+![Cart Page](snapshots/attendence.png)  
+
+
