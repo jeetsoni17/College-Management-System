@@ -1,6 +1,6 @@
 # College Management System  
 
-A web-based portal for managing college operations, designed using PHP, MySQL, and Apache (LAMP stack).  
+A web-based portal for managing college operations, designed using PHP, MySQL, and Apache.  
 
 ## Features  
 - Role-based login for admins, staff, and students.  
